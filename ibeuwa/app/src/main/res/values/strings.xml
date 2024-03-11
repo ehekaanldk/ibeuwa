@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ibeuwa</string>
+    <string name="strBtn">사진 촬영</string>
+    <string name="strBtn1">폐기물 처리</string>
+    <string name="strBtn2">사진 등록</string>
+    <string name="strBtn3">폐기물 종류</string>
+    <string name="strBtn4">입력하세요</string>
+    <string name="strBtn5">폐기물 크기</string>
+    <string name="strBtn6">폐기물 처리 납부 비용</string>
+    <string name="strBtn7">원</string>
+    <string name="strBtn8">NEXT</string>
+    <string name="strBtn9">예약자 정보 확인</string>
+    <string name="strBtn10">예약자 성함 : 홍길동</string>
+    <string name="strBtn11">예약자 번호 : 010-1234-5678</string>
+    <string name="strBtn12">예약자 주소 : 서울특별시 성북구 보문로 34다길 2</string>
+    <string name="strBtn13">등록번호를 폐기물에 부착해주시기 바랍니다.</string>
+    <string name="strBtn14">폐기물 처리 등록 확인</string>
+
+    <string name="strBtn15">등록번호 : 123456</string>
+    <string name="strBtn16">폐기물 종류 : 의자</string>
+    <string name="strBtn17">납부 금액 : 3000원</string>
+
+
+    <string name="strBtn18">폐기물 추가 등록</string>
+    <string name="strBtn19">폐기물 접수 완료</string>
+
+    <string name="strBtn20">목록 확인</string>
+
+    <string name="strBtn21">폐기물 처리 목록</string>
+    <string name="strBtn22">중고 거래 목록</string>
+
+    <string name="strBtn23">결제 중</string>
+    <string name="strBtn24">등록 완료</string>
+    <string name="strBtn25">수거 완료</string>
+    <string name="strBtn26">폐기물 등록 삭제</string>
+    <string name="strBtn28"></string>
+
+</resources>
